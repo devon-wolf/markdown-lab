@@ -14,6 +14,8 @@ console.log(`Don't you know any other things to do in JavaScript?`);
 _I've put some text here in italics as well._
 
 And I've gone to the table-making-wizards and have acquired a table:
+
+### Very Unscientific Breakdown of Submission Wrestling Finishes
 | **Submission Type** | *Finish percentage* | *Average difficulty*                       |
 |---------------------|---------------------|--------------------------------------------|
 | Chokes              | Idk, high?          | Pretty easy, if you can get there          |
